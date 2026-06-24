@@ -85,12 +85,22 @@ linkedin:    linkedin.com/in/sai-chintamani-a87b5b315
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
   <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3_Animation-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Model_Context_Protocol-FF6B00?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3_Animation-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
@@ -101,50 +111,81 @@ linkedin:    linkedin.com/in/sai-chintamani-a87b5b315
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 [MediReach AI](projects/MediReach-AI.md)
-Multi-agent rural healthcare assistant for the **"Agents for Good"** track.
+### 🗣️ [Samvaad AI](https://github.com/saichintamani/SamvaadAI)
+An advanced conversational intelligence platform providing seamless multi-lingual voice and text interactions.
 
-🤖 `4 Agents` · 🖥️ `React/Next.js` · 🧠 `Gemini`
+🤖 `Real-time AI` · 🎙️ `Speech-to-Text` · 🧠 `LLM Orchestration`
 
-Locator · First-Aid · Medicine · Scheme agents working in coordination.
+Engineered a robust frontend with dynamic voice visualization and highly responsive chat interfaces for an immersive user experience.
 
 </td>
 <td width="50%" valign="top">
 
-### 📖 [PrepMind AI](projects/PrepMind-AI.md)
-EdTech SaaS for Indian engineering placement prep.
+### 🏥 [MediReach AI](https://github.com/saichintamani/medireach)
+A high-tech, multi-agent rural healthcare assistant built for the **"Agents for Good"** track, featuring a stunning cybernetic UI.
 
-🖥️ `React/Vite` · ⚙️ `FastAPI` · 🧠 `GPT-4o`
+🤖 `4 Agents` · 🖥️ `React/Next.js` · 🧠 `Gemini Pro`
 
-Auth, payments, and AI-assisted practice — brand color `#FF6B00`.
+Orchestrates Locator, First-Aid, Medicine, and Scheme agents in perfect coordination via an interactive 3D digital twin interface.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🍪 [OREO Landing Page](projects/OREO-Landing-Page.md)
-Premium single-page brand site — twist, lick, dunk.
+### 📖 [PrepMind AI](https://github.com/saichintamani/PrepMind-Ai)
+An elite EdTech SaaS platform designed to supercharge Indian engineering students' placement preparation.
 
-🎨 `Vanilla JS` · ✨ `Scroll Reveal` · 🖱️ `Custom Cursor`
+🖥️ `React/Vite` · 🎯 `DSA IDE` · 🧠 `GPT-4o`
 
-12-flavor catalog with live filtering, marquee, and cart UI.
+Features secure authentication, Razorpay integrations, PDF-to-Quiz generative AI pipelines, and a premium `#FF6B00` brand aesthetic.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔍 [sai-roadmap-mcp](https://github.com/saichintamani/sai-roadmap-mcp)
-MCP server with a **from-scratch semantic search engine** — no pretrained models, no external embedding API.
+A deeply technical Model Context Protocol (MCP) server featuring a **from-scratch semantic search engine**—no external embeddings.
 
 🐍 `Python/NumPy` · 📊 `TF-IDF + SVD` · 🔌 `MCP Protocol`
 
-LSA-based retrieval, PMI bigram detection, and a real precision@k evaluation — all documented, including what didn't work.
+Implements Latent Semantic Analysis (LSA), PMI bigram detection, and precise evaluation metrics directly integrated with Claude Desktop.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍪 [OREO Landing Page](https://github.com/saichintamani/OREO-Landing-Page)
+A premium, highly animated single-page brand site celebrating the classic "twist, lick, dunk" experience.
+
+🎨 `Vanilla JS` · ✨ `Scroll Reveal` · 🖱️ `Custom Cursor`
+
+Features a fluid 12-flavor product catalog with live filtering, continuous marquee animations, and an interactive cart UI.
+
+</td>
+<td width="50%" valign="top">
+
+### ⏳ [More Agents Shipping Soon...](#)
+My AI engineering roadmap for 2026 is fully packed. Currently actively exploring autonomous agentic workflows and advanced RAG architectures.
+
+🚀 `Stay Tuned` · ⚙️ `Building`
 
 </td>
 </tr>
 </table>
 
-📄 [Browse all project write-ups →](projects/)
+📄 [Browse all project repositories →](https://github.com/saichintamani?tab=repositories)
+
+---
+
+## 🚀 Live Deployments & Demonstrations
+
+| Project | Live URL | Description |
+|---|---|---|
+| **Samvaad AI** | 🌐 [samvaadai.vercel.app](https://samvaadai.vercel.app/) | Test the real-time multilingual voice intelligence platform. |
+| **PrepMind AI** | 🌐 [prep-mind-ai-chi.vercel.app](https://prep-mind-ai-chi.vercel.app/) | Explore the EdTech placement prep SaaS and PDF-to-Quiz generators. |
+| **MediReach AI** | 🌐 [Live Demo Link in Repo](https://github.com/saichintamani/medireach) | Interact with the rural healthcare multi-agent system. |
+| **OREO Website** | 🌐 [Live Demo Link in Repo](https://github.com/saichintamani/OREO-Landing-Page) | View the high-fidelity scroll animations and flavor catalog. |
 
 ---
 
