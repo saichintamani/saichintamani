@@ -32,7 +32,7 @@
 <table align="center">
 <tr>
 <td align="center" width="25%">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Graduation%20Cap.png" width="55"/><br/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="55"/><br/>
   <b>10+</b><br/><sub>Certifications</sub>
 </td>
 <td align="center" width="25%">
@@ -40,7 +40,7 @@
   <b>4</b><br/><sub>Live Builds</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="55"/><br/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="55"/><br/>
   <b>4</b><br/><sub>Agents Shipped</sub>
 </td>
 <td align="center" width="25%">
@@ -225,20 +225,37 @@ My AI engineering roadmap for 2026 is fully packed. Currently actively exploring
 
 ---
 
-## 🗺️ 2026 Roadmap
+## 🗺️ 2026 Roadmap & AI Engineering Pipeline
 
 ```mermaid
-timeline
-    title Sai's 2026 AI Engineering Roadmap
-    Q1 : Math for ML & Hands-On ML
-       : SQL & Data Preprocessing
-    Q2 : Deep Learning & NLP Foundations
-       : MediReach AI Build
-    Q3 : AI Engineering & LLM Systems
-       : PrepMind AI MVP
-    Q4 : ML Systems Design
-       : Agentic IDEs & MCP Protocols
+graph LR
+    %% High-Tech Cybernetic Styling
+    classDef quarter fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#fff
+    classDef milestone fill:#1e1b4b,stroke:#a855f7,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+    classDef shipped fill:#064e3b,stroke:#34d399,stroke-width:3px,color:#fff
+    
+    subgraph Year [Sai's 2026 Mission]
+        direction LR
+        
+        Q1((Q1 Node)):::quarter
+        Q2((Q2 Node)):::quarter
+        Q3((Q3 Node)):::quarter
+        Q4((Q4 Node)):::quarter
+        
+        Q1 -.->|Math for ML & SQL| M1[Hands-On ML & Data]:::milestone
+        Q2 -.->|Deep Learning & NLP| M2[MediReach AI Build]:::shipped
+        Q3 -.->|AI Eng & LLM Systems| M3[PrepMind AI MVP]:::shipped
+        Q4 -.->|ML Systems Design| M4[Agentic IDEs & MCP]:::shipped
+        
+        M1 ==> Q2
+        M2 ==> Q3
+        M3 ==> Q4
+    end
 ```
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:1A1A2E&height=100&section=header&text=Building+the+Future,+One+Agent+at+a+Time&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" alt="Animated Banner"/>
+</div>
 
 📄 Full breakdown in [docs/roadmap.md](docs/roadmap.md)
 
