@@ -60,20 +60,47 @@ role:        AI Engineering Student
 focus:       Multi-Agent Systems · LLMs · EdTech
 education:   B.Tech AI Engineering, GHRCE Nagpur (2nd Year)
 based_in:    Nagpur, Maharashtra, India
-currently:   Building MediReach AI & PrepMind AI
+currently:   Architecting Samvaad AI, MediReach AI, PrepMind AI & MCP Servers
 linkedin:    linkedin.com/in/sai-chintamani-a87b5b315
 ```
 
 - 🎓 2nd-year **B.Tech in AI Engineering** @ G.H. Raisoni College of Engineering, Nagpur
+- 🗣️ Architected **Samvaad AI** — an advanced real-time conversational intelligence platform
 - 🤖 Built **MediReach AI** — a multi-agent rural healthcare assistant for an "Agents for Good" track
 - 🛠️ Building **PrepMind AI** — an EdTech SaaS for Indian engineering students' placement prep
+- 🔍 Developed **sai-roadmap-mcp** — a deeply technical Model Context Protocol server featuring a from-scratch semantic search engine
 - 📜 **10+ certifications** across Google Cloud, Microsoft Azure, Oracle, and IEEE-led programs — see the [Certifications Portal](#-certifications-portal) below
-- 📚 Following a structured AI engineering roadmap — see [my 2026 roadmap](docs/roadmap.md)
+- 📚 Following a structured AI engineering roadmap — see [my 2026 roadmap](#-2026-roadmap--ai-engineering-pipeline)
 - 🌍 Based in Nagpur — into solo travel & photography when not building
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Parameter Matrix
+
+```mermaid
+mindmap
+  root((Sai's Core<br/>Arsenal))
+    AI & ML
+      LLM Orchestration
+      Prompt Engineering
+      Semantic Search
+      Multi-Agent Systems
+    Frontend
+      React & Next.js
+      Tailwind CSS
+      Vite
+      Framer Motion
+    Backend
+      Node.js
+      Python
+      FastAPI
+      Supabase
+    DevOps & Tools
+      Git & GitHub
+      Vercel
+      Model Context Protocol
+      n8n Automation
+```
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,react,nextjs,fastapi,supabase,nodejs,javascript,html,css,git,github,figma,vscode" />
@@ -228,29 +255,53 @@ My AI engineering roadmap for 2026 is fully packed. Currently actively exploring
 ## 🗺️ 2026 Roadmap & AI Engineering Pipeline
 
 ```mermaid
-graph LR
-    %% High-Tech Cybernetic Styling
-    classDef quarter fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#fff
-    classDef milestone fill:#1e1b4b,stroke:#a855f7,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+flowchart TD
+    %% High-Tech Cybernetic Styling & Glowing Parameters
+    classDef root fill:#0D1117,stroke:#FF6B00,stroke-width:4px,color:#fff,stroke-dasharray: 5 5
+    classDef phase fill:#1A1A2E,stroke:#38bdf8,stroke-width:2px,color:#fff
+    classDef tech fill:#0f172a,stroke:#a855f7,stroke-width:2px,color:#fff
     classDef shipped fill:#064e3b,stroke:#34d399,stroke-width:3px,color:#fff
-    
-    subgraph Year [Sai's 2026 Mission]
-        direction LR
-        
-        Q1((Q1 Node)):::quarter
-        Q2((Q2 Node)):::quarter
-        Q3((Q3 Node)):::quarter
-        Q4((Q4 Node)):::quarter
-        
-        Q1 -.->|Math for ML & SQL| M1[Hands-On ML & Data]:::milestone
-        Q2 -.->|Deep Learning & NLP| M2[MediReach AI Build]:::shipped
-        Q3 -.->|AI Eng & LLM Systems| M3[PrepMind AI MVP]:::shipped
-        Q4 -.->|ML Systems Design| M4[Agentic IDEs & MCP]:::shipped
-        
-        M1 ==> Q2
-        M2 ==> Q3
-        M3 ==> Q4
+    classDef pending fill:#451a03,stroke:#fbbf24,stroke-width:2px,color:#fff
+
+    Root(((2026 AI Engineering<br/>Mission Control))):::root
+
+    subgraph Q1 [Q1: Foundation & Data Mastery]
+        direction TB
+        M1[Math for ML & Stats]:::phase
+        M2[SQL & Data Preprocessing]:::tech
     end
+
+    subgraph Q2 [Q2: Intelligence Architecture]
+        direction TB
+        D1[Deep Learning & NLP]:::phase
+        D2[MediReach AI Shipped]:::shipped
+        D3[Samvaad AI Shipped]:::shipped
+    end
+
+    subgraph Q3 [Q3: Production & Scale]
+        direction TB
+        A1[AI Engineering & LLM Systems]:::phase
+        A2[PrepMind AI MVP]:::shipped
+    end
+
+    subgraph Q4 [Q4: Advanced Agentic Ecosystems]
+        direction TB
+        S1[ML Systems Design]:::phase
+        S2[Agentic IDEs & MCP Protocols]:::shipped
+        S3[sai-roadmap-mcp Deployed]:::shipped
+    end
+
+    %% Animated Data Flow Pipeline
+    Root -.->|Initialization| Q1
+    Q1 ==>|Weights Extracted| Q2
+    Q2 ==>|Models Optimized| Q3
+    Q3 ==>|Agents Deployed| Q4
+
+    %% Internal linking for dense, advanced visual
+    M1 --- M2
+    D1 --- D2 --- D3
+    A1 --- A2
+    S1 --- S2 --- S3
 ```
 
 <div align="center">
