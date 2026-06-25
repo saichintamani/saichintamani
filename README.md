@@ -32,19 +32,19 @@
 <table align="center">
 <tr>
 <td align="center" width="25%">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="55"/><br/>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="55" alt="🎓"/><br/>
   <b>10+</b><br/><sub>Certifications</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="55"/><br/>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="55" alt="💻"/><br/>
   <b>4</b><br/><sub>Live Builds</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="55"/><br/>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="55" alt="🤖"/><br/>
   <b>4</b><br/><sub>Agents Shipped</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="55"/><br/>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="55" alt="🚀"/><br/>
   <b>2026</b><br/><sub>Always Shipping</sub>
 </td>
 </tr>
@@ -313,6 +313,14 @@ flowchart TD
 </div>
 
 📄 Full breakdown in [docs/roadmap.md](docs/roadmap.md)
+
+---
+
+## 🏆 Trophies & Milestones
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saichintamani&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true" alt="GitHub Trophies" />
+</p>
 
 ---
 
