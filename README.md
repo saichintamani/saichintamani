@@ -132,6 +132,22 @@ mindmap
 
 ---
 
+## 🌌 I Know My Portfolio
+
+<div align="center">
+  <a href="https://portfolio-delta-two-qf280bbhsg.vercel.app/" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:1A1A2E&height=120&section=header&text=I+Know+My+Portfolio&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Portfolio Banner"/>
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://portfolio-delta-two-qf280bbhsg.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Explore_My_Interactive_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FF6B00&labelColor=1A1A2E" />
+  </a>
+</p>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF6B00,100:1A1A2E&height=100&section=header&text=Pinnacle+AI+Deployments&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" alt="Projects Banner"/>
 </div>
