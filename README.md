@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=FF6B00&center=true&vCenter=true&width=650&lines=AI+Engineering+Student+%40+GHRCE+Nagpur;Building+MediReach+AI+%26+PrepMind+AI;Multi-Agent+Systems+%7C+EdTech+%7C+LLMs;10%2B+Certifications+%7C+Always+Learning;Currently+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=FF6B00&center=true&vCenter=true&width=800&lines=Architecting+Samvaad+AI,+PrepMind+AI,+and+MediReach+AI;Building+Agentic+IDEs+%26+MCP+Protocols;Multi-Agent+Orchestration+%7C+NLP+%7C+LLMs;10%2B+Certifications+%7C+Always+Shipping;AI+Engineering+Student+%40+GHRCE+Nagpur" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -131,6 +131,10 @@ mindmap
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF6B00,100:1A1A2E&height=100&section=header&text=Pinnacle+AI+Deployments&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" alt="Projects Banner"/>
+</div>
 
 ## 📌 Projects Portal
 
@@ -332,7 +336,11 @@ flowchart TD
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saichintamani/saichintamani/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saichintamani/saichintamani/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saichintamani/saichintamani/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saichintamani/saichintamani/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
 > Auto-updates daily via [.github/workflows/snake.yml](.github/workflows/snake.yml)
