@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=FF6B00&center=true&vCenter=true&width=800&lines=Architecting+Samvaad+AI,+PrepMind+AI,+and+MediReach+AI;Building+Agentic+IDEs+%26+MCP+Protocols;Multi-Agent+Orchestration+%7C+NLP+%7C+LLMs;10%2B+Certifications+%7C+Always+Shipping;AI+Engineering+Student+%40+GHRCE+Nagpur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=FF6B00&center=true&vCenter=true&width=900&lines=🌕+Built+Lumina:+ISRO+Lunar+Digital+Twin;Architecting+Samvaad+AI,+PrepMind+AI,+and+MediReach+AI;Building+Agentic+IDEs+%26+MCP+Protocols;Multi-Agent+Orchestration+%7C+NLP+%7C+LLMs;10%2B+Certifications+%7C+Always+Shipping;AI+Engineering+Student+%40+GHRCE+Nagpur" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -65,6 +65,7 @@ linkedin:    linkedin.com/in/sai-chintamani-a87b5b315
 ```
 
 - 🎓 2nd-year **B.Tech in AI Engineering** @ G.H. Raisoni College of Engineering, Nagpur
+- 🌕 Built **[Lumina: ISRO Lunar Digital Twin](https://github.com/saichintamani/Lumina-)** — a 3D WebGL simulation of 64 autonomous rover swarms, explainable AI, NavCam ML vision, Earth-Moon latency, and spectroscopy at Faustini Crater — inspired by Chandrayaan-2
 - 🗣️ Architected **Samvaad AI** — an advanced real-time conversational intelligence platform
 - 🤖 Built **MediReach AI** — a multi-agent rural healthcare assistant for an "Agents for Good" track
 - 🛠️ Building **PrepMind AI** — an EdTech SaaS for Indian engineering students' placement prep
@@ -158,34 +159,14 @@ mindmap
 <tr>
 <td width="50%" valign="top">
 
-### 🗣️ [Samvaad AI](https://github.com/saichintamani/SamvaadAI)
-An advanced conversational intelligence platform providing seamless multi-lingual voice and text interactions.
+### 🌕 [Lumina — ISRO Lunar Digital Twin](https://github.com/saichintamani/Lumina-)
+A production-ready **3D WebGL mission intelligence platform** for ISRO's lunar South Pole exploration at Faustini Crater, powered by Chandrayaan-2 radar data.
 
-🤖 `Real-time AI` · 🎙️ `Speech-to-Text` · 🧠 `LLM Orchestration`
+🤖 `64 Boids Rovers` · 🧠 `Explainable AI` · ⏱️ `Earth-Moon Latency` · 📸 `NavCam ML HUD`
 
-Engineered a robust frontend with dynamic voice visualization and highly responsive chat interfaces for an immersive user experience.
+Runs 64 autonomous micro-rovers via the Boids algorithm at 60 FPS in WebGL, with a 9-stage guided Demo Mode, volumetric spectroscopy, and a solar flare scenario engine — all in the browser.
 
-</td>
-<td width="50%" valign="top">
-
-### 🏥 [MediReach AI](https://github.com/saichintamani/medireach)
-A high-tech, multi-agent rural healthcare assistant built for the **"Agents for Good"** track, featuring a stunning cybernetic UI.
-
-🤖 `4 Agents` · 🖥️ `React/Next.js` · 🧠 `Gemini Pro`
-
-Orchestrates Locator, First-Aid, Medicine, and Scheme agents in perfect coordination via an interactive 3D digital twin interface.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📖 [PrepMind AI](https://github.com/saichintamani/PrepMind-Ai)
-An elite EdTech SaaS platform designed to supercharge Indian engineering students' placement preparation.
-
-🖥️ `React/Vite` · 🎯 `DSA IDE` · 🧠 `GPT-4o`
-
-Features secure authentication, Razorpay integrations, PDF-to-Quiz generative AI pipelines, and a premium `#FF6B00` brand aesthetic.
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE-Visit_Platform-00C7FF?style=flat-square)](https://antigravity-faxkdjo57-sai-chintamanis-projects.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -202,20 +183,44 @@ Implements Latent Semantic Analysis (LSA), PMI bigram detection, and precise eva
 <tr>
 <td width="50%" valign="top">
 
+### 🏥 [MediReach AI](https://github.com/saichintamani/medireach)
+A high-tech, multi-agent rural healthcare assistant built for the **"Agents for Good"** track, featuring a stunning cybernetic UI.
+
+🤖 `4 Agents` · 🖥️ `React/Next.js` · 🧠 `Gemini Pro`
+
+Orchestrates Locator, First-Aid, Medicine, and Scheme agents in perfect coordination via an interactive 3D digital twin interface.
+
+</td>
+<td width="50%" valign="top">
+
+### 📖 [PrepMind AI](https://github.com/saichintamani/PrepMind-Ai)
+An elite EdTech SaaS platform designed to supercharge Indian engineering students' placement preparation.
+
+🖥️ `React/Vite` · 🎯 `DSA IDE` · 🧠 `GPT-4o`
+
+Features secure authentication, Razorpay integrations, PDF-to-Quiz generative AI pipelines, and a premium `#FF6B00` brand aesthetic.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗣️ [Samvaad AI](https://github.com/saichintamani/SamvaadAI)
+An advanced conversational intelligence platform providing seamless multi-lingual voice and text interactions.
+
+🤖 `Real-time AI` · 🎙️ `Speech-to-Text` · 🧠 `LLM Orchestration`
+
+Engineered a robust frontend with dynamic voice visualization and highly responsive chat interfaces for an immersive user experience.
+
+</td>
+<td width="50%" valign="top">
+
 ### 🍪 [OREO Landing Page](https://github.com/saichintamani/OREO-Landing-Page)
 A premium, highly animated single-page brand site celebrating the classic "twist, lick, dunk" experience.
 
 🎨 `Vanilla JS` · ✨ `Scroll Reveal` · 🖱️ `Custom Cursor`
 
 Features a fluid 12-flavor product catalog with live filtering, continuous marquee animations, and an interactive cart UI.
-
-</td>
-<td width="50%" valign="top">
-
-### ⏳ [More Agents Shipping Soon...](#)
-My AI engineering roadmap for 2026 is fully packed. Currently actively exploring autonomous agentic workflows and advanced RAG architectures.
-
-🚀 `Stay Tuned` · ⚙️ `Building`
 
 </td>
 </tr>
@@ -229,9 +234,10 @@ My AI engineering roadmap for 2026 is fully packed. Currently actively exploring
 
 | Project | Live URL | Description |
 |---|---|---|
-| **Samvaad AI** | 🌐 [samvaadai.vercel.app](https://samvaadai.vercel.app/) | Test the real-time multilingual voice intelligence platform. |
-| **PrepMind AI** | 🌐 [prep-mind-ai-chi.vercel.app](https://prep-mind-ai-chi.vercel.app/) | Explore the EdTech placement prep SaaS and PDF-to-Quiz generators. |
+| 🌕 **Lumina — ISRO Lunar Twin** | 🌐 [antigravity-faxkdjo57-sai-chintamanis-projects.vercel.app](https://antigravity-faxkdjo57-sai-chintamanis-projects.vercel.app/) | Explore the 3D lunar simulation — NavCam, Boids Swarm, AI Orchestrator & Earth-Moon Latency. |
 | **MediReach AI** | 🌐 [Live Demo Link in Repo](https://github.com/saichintamani/medireach) | Interact with the rural healthcare multi-agent system. |
+| **PrepMind AI** | 🌐 [prep-mind-ai-chi.vercel.app](https://prep-mind-ai-chi.vercel.app/) | Explore the EdTech placement prep SaaS and PDF-to-Quiz generators. |
+| **Samvaad AI** | 🌐 [samvaadai.vercel.app](https://samvaadai.vercel.app/) | Test the real-time multilingual voice intelligence platform. |
 | **OREO Website** | 🌐 [Live Demo Link in Repo](https://github.com/saichintamani/OREO-Landing-Page) | View the high-fidelity scroll animations and flavor catalog. |
 
 ---
@@ -309,19 +315,20 @@ flowchart TD
         S1[ML Systems Design]:::phase
         S2[Agentic IDEs & MCP Protocols]:::shipped
         S3[sai-roadmap-mcp Deployed]:::shipped
+        S4[🌕 Lumina ISRO Digital Twin]:::shipped
     end
 
     %% Animated Data Flow Pipeline
-    Root -.->|Initialization| Q1
-    Q1 ==>|Weights Extracted| Q2
-    Q2 ==>|Models Optimized| Q3
-    Q3 ==>|Agents Deployed| Q4
+    Root -.->[Initialization] Q1
+    Q1 ==>[Weights Extracted] Q2
+    Q2 ==>[Models Optimized] Q3
+    Q3 ==>[Agents Deployed] Q4
 
     %% Internal linking for dense, advanced visual
     M1 --- M2
     D1 --- D2 --- D3
     A1 --- A2
-    S1 --- S2 --- S3
+    S1 --- S2 --- S3 --- S4
 ```
 
 <div align="center">
