@@ -31,19 +31,23 @@
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="55" alt="🎓"/><br/>
   <b>10+</b><br/><sub>Certifications</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="55" alt="💻"/><br/>
-  <b>4</b><br/><sub>Live Builds</sub>
+  <b>6</b><br/><sub>Live Builds</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="55" alt="🤖"/><br/>
-  <b>4</b><br/><sub>Agents Shipped</sub>
+  <b>5</b><br/><sub>Agents Shipped</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30c/512.gif" width="55" alt="🌌"/><br/>
+  <b>Lumina</b><br/><sub>ISRO Space Twin</sub>
+</td>
+<td align="center" width="20%">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="55" alt="🚀"/><br/>
   <b>2026</b><br/><sub>Always Shipping</sub>
 </td>
@@ -343,6 +347,20 @@ flowchart TD
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saichintamani&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Profile Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saichintamani&theme=tokyonight" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saichintamani&theme=tokyonight" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saichintamani&theme=tokyonight" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saichintamani&theme=tokyonight" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saichintamani&theme=tokyonight&utcOffset=+5.5" width="24%" />
 </p>
 
 ---
