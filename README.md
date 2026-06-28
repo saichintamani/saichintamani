@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=FF6B00&center=true&vCenter=true&width=900&lines=🌕+Built+Lumina:+ISRO+Lunar+Digital+Twin;Architecting+Samvaad+AI,+PrepMind+AI,+and+MediReach+AI;Building+Agentic+IDEs+%26+MCP+Protocols;Multi-Agent+Orchestration+%7C+NLP+%7C+LLMs;10%2B+Certifications+%7C+Always+Shipping;AI+Engineering+Student+%40+GHRCE+Nagpur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=FF6B00&center=true&vCenter=true&width=900&lines=Built+Lumina+%E2%80%94+ISRO+Lunar+Digital+Twin;Architecting+Samvaad+AI,+PrepMind+AI,+and+MediReach+AI;Building+Agentic+IDEs+%26+MCP+Protocols;Multi-Agent+Orchestration+%7C+NLP+%7C+LLMs;10%2B+Certifications+%7C+Always+Shipping;AI+Engineering+Student+%40+GHRCE+Nagpur" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -319,10 +319,10 @@ flowchart TD
     end
 
     %% Animated Data Flow Pipeline
-    Root -.->[Initialization] Q1
-    Q1 ==>[Weights Extracted] Q2
-    Q2 ==>[Models Optimized] Q3
-    Q3 ==>[Agents Deployed] Q4
+    Root -.-|Initialization| Q1
+    Q1 ==>|Weights Extracted| Q2
+    Q2 ==>|Models Optimized| Q3
+    Q3 ==>|Agents Deployed| Q4
 
     %% Internal linking for dense, advanced visual
     M1 --- M2
