@@ -146,7 +146,7 @@ mindmap
 </div>
 
 <p align="center">
-  <a href="https://portfolio-delta-two-qf280bbhsg.vercel.app/" target="_blank">
+  <a href="https://sai-chintamani-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Explore_My_Interactive_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FF6B00&labelColor=1A1A2E" />
   </a>
 </p>
